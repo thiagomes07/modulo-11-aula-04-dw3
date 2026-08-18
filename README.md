@@ -1,11 +1,8 @@
 # Bridge Table, Junk Dimension e SCD — Cubo "Ciclo de Vida da Pesquisa"
 
-**Ponderada — Modelagem de Data Warehouse**
-**Grupo T13 ES11 G01 — Parceiro Sindusfarma (Central de Pesquisas)**
+**Interação com IA Generativa:** https://claude.ai/share/a0f39db7-ddb4-4107-ac6c-e90a0b8eb306
 
-**Interação com IA Generativa:** [colar link aqui]
-
----
+--- 
 
 ## 1. Contexto do cubo
 
